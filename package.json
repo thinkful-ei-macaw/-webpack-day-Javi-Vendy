@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-macaw/webpack-day-Javi-Vendy/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-macaw/webpack-day-Javi-Vendy#readme"
+  "homepage": "https://github.com/thinkful-ei-macaw/webpack-day-Javi-Vendy#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
