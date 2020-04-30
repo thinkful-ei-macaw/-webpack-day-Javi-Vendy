@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/thinkful-ei-macaw/webpack-day-Javi-Vendy#readme",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
